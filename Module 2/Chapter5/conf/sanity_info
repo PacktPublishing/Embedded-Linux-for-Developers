@@ -1,0 +1,3 @@
+SANITY_VERSION 1
+TMPDIR /opt/yocto/fsl-community-bsp/wandboard-quad/tmp
+SSTATE_DIR /opt/yocto/fsl-community-bsp/wandboard-quad/sstate-cache

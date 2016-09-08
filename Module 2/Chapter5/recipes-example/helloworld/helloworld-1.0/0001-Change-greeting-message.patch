@@ -1,0 +1,21 @@
+From cbc64c5130716d634fd5b7491a666b5b56ac2636 Mon Sep 17 00:00:00 2001
+From: Alex Gonzalez <alex.gonzalez@digi.com>
+Date: Thu, 26 Feb 2015 13:43:14 +0100
+Subject: [PATCH] Change greeting message
+
+Signed-off-by: Alex Gonzalez <alex.gonzalez@digi.com>
+---
+ helloworld.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/helloworld.c b/helloworld.c
+index 65efa0495665..fab446a6ab9d 100644
+--- a/helloworld.c
++++ b/helloworld.c
+@@ -2,5 +2,5 @@
+ 
+ int main(void)
+ {
+-    return printf("Hello World");
++    return printf("Howdy World");
+ }
