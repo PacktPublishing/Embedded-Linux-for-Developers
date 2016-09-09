@@ -36,8 +36,7 @@ alex<at>lindusembedded.com
 
   I. Adding the bsp-custom layer to your build
  II. Misc
-
-
+ 
 ###I. Adding the bsp-custom layer to your build
 =================================================
 
