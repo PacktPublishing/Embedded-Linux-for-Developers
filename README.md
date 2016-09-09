@@ -13,9 +13,9 @@
 * Measure real-time latencies and tune the Linux kernel to minimize them
 
 ##Note
-###Module 2
+##Module 2
 
-####Dependencies
+###Dependencies
 ============
 
 This layer depends on:
@@ -24,14 +24,14 @@ This layer depends on:
   branch: dizzy
 
 
-####Patches
+###Patches
 =======
 
 Please submit any patches against the bsp-custom layer to Packt Publishing
 via http://www.packtpub.com/submit-errata, or to the author Alex Gonzalez at
 alex<at>lindusembedded.com
 
-####Table of Contents
+###Table of Contents
 =================
 
   I. Adding the bsp-custom layer to your build
