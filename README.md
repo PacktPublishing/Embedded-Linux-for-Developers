@@ -1,6 +1,6 @@
 #Embedded Linux for Developers
 
-This is the code repository for [Embedded Linux for Developers], published by Packt. It contains all the supporting project files necessary to work through the course from start to finish.
+This is the code repository for Embedded Linux for Developers, published by Packt. It contains all the supporting project files necessary to work through the course from start to finish.
 
 ##What you will learn
 
