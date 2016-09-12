@@ -1,5 +1,7 @@
 #Embedded Linux for Developers
 
+This is the code repository for [Embedded Linux for Developers], published by Packt. It contains all the supporting project files necessary to work through the course from start to finish.
+
 ##What you will learn
 
 * Use the Yocto Project in the embedded Linux development process
@@ -176,7 +178,6 @@ Recipe list
 ##Related Products
 
 [Embedded Linux Development with Yocto Project](https://www.packtpub.com/application-development/embedded-linux-development-yocto-project?utm_source=github&utm_medium=repository&utm_campaign=9781783282333)
-
 [Mastering Embedded Linux Programming](https://www.packtpub.com/networking-and-servers/mastering-embedded-linux-programming?utm_source=github&utm_medium=repository&utm_campaign=9781784392536)
-
+--
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
